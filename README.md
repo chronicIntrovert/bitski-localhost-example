@@ -1,6 +1,6 @@
 # bitski-localhost-example
 
-Below is an example of integrating the Bitski SDK for authentication using the provided callback.html at [https://github.com/BitskiCo/bitski-js/tree/main/packages/browser. ](https://github.com/BitskiCo/bitski-js/blob/main/packages/browser/callback.html)
+Below is an example of integrating the Bitski SDK for authentication using the provided callback.html at [https://github.com/BitskiCo/bitski-js/tree/main/packages/browser/callback.html. ](https://github.com/BitskiCo/bitski-js/blob/main/packages/browser/callback.html)
 
 This app uses svelte-kit, with the `callback.html` file provided under the `static` directory - this is the public directory for directly linking to static assets in svelte-kit. 
 
